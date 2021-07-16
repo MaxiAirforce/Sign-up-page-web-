@@ -6,6 +6,7 @@ body{
   background-color: #0B2429;
   background-size: cover;
 }
+
 .login-box{
   width: 500px;
  padding: 50px;
@@ -17,6 +18,7 @@ body{
   color: white;
   background-color: #222;
 }
+
 .login-box h1{
   float: left;
   font-size: 40px;
